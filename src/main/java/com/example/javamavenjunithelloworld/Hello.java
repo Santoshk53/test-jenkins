@@ -28,6 +28,8 @@ public class Hello {
         this.times = (short) times;
     }
 
+    //
+
     /**
      * Say "Hello!".
      *
