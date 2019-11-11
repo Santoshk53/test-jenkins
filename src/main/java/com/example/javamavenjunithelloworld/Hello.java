@@ -28,7 +28,11 @@ public class Hello {
         this.times = (short) times;
     }
 
+<<<<<<< HEAD
 Hey shrav!!
+=======
+    //
+>>>>>>> bfa71b342ad0355dd087714795f3f83f7009fd17
 
     /**
      * Say "Hello!".
